@@ -357,15 +357,7 @@ kd = ...
 
 Показывает изменение лучшего значения функции стоимости:
 
-```text
-Best cost
-   │\
-   │ \
-   │  \____
-   │       \____
-   │            \___
-   └────────────────── Iteration
-```
+<img width="690" height="470" alt="image" src="https://github.com/user-attachments/assets/053c0ab9-13c7-495c-a281-03a3db469ec0" />
 
 Чем ниже значение `Best cost`, тем лучше найденный набор параметров.
 
@@ -383,6 +375,8 @@ Best cost
 $$
 \theta(t) \rightarrow 0
 $$
+
+<img width="1184" height="787" alt="image" src="https://github.com/user-attachments/assets/a626b1a6-8561-448d-9692-bb99d3993ecf" />
 
 ---
 
